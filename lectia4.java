@@ -88,7 +88,8 @@ public class Lectia4 {
 
         }
         else if ( sarcina == 11){
-            for (int i = 1;i>=10;i++ )
+            for ( int i = 1; i<=10; i++)
+                System.out.println("1 * "+i+" = "+(1*i)+"\t2 * "+i+" = "+(2*i)+"\t3 * "+i+" = "+(3*i)+"\t4 * "+i+" = "+(4*i)+"\t5 * "+i+" = "+(5*i)+"\t6 * "+i+" = "+(6*i)+"\t7 * "+i+" = "+(7*i)+"\t8 * "+i+" = "+(8*i)+"\t9 * "+i+" = "+(9*i)+"\t10 * "+i+" = "+(10*i));
         }
         else System.out.print("Sarcina alesa sa rezolvat in clasa!!! xD");
     }
