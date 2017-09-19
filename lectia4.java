@@ -85,7 +85,13 @@ public class Lectia4 {
             System.out.print("Peste 10 ani va avea un venit de :"+((c*d*t*365)/(100*360)));
         }
         else if ( sarcina == 10){
-
+            int a,b,c;
+            a=b=c=0;
+            System.out.print("Scrie un numar: ");
+            int n = key.nextInt();
+            for (int i = 1; i <= n; i++) {
+                
+            }
         }
         else if ( sarcina == 11){
             for ( int i = 1; i<=10; i++)
