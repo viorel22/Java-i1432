@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 
-public class Main {
+public class Lectia3 {
     public static void main(String[] args) {
     Scanner key = new Scanner(System.in);
 	System.out.print("Scrie nr de la sarcina 1..11: ");
